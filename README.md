@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abhi0987
+- 👋 Hi, I’m Abhishek
 - 👀 I’m interested in python, nodejs, machine learining
 - 🌱 I’m currently learning swift and ios develeopment
 - 📫 How to reach me 
