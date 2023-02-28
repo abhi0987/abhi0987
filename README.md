@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhishek
-- 👀 I’m interested in python, nodejs, machine learining
-- 🌱 I’m currently working on https://unstoppable.so
+- 👀 Proficient in Swift, Kotlin, nodeJS, ML and GCP integrations.
+- 🌱 Currently heading tech operations at https://abtris.com
 - 📫 How to reach me 
      linkedin:https://www.linkedin.com/in/abhishek-biswal-4a175b129/
 
